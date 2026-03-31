@@ -41,4 +41,4 @@ Key assumption
 - A demo video
 - A csv file contains: frame, timestamp, slot id, occupancy, iou
 
-# Notes: This project is for my graduation as well as learning journey in Computer vision,
+#### Notes: This project is for my graduation as well as learning journey in Computer vision,
